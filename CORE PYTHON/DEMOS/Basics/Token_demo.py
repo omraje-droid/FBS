@@ -1,7 +1,6 @@
 #TOKEN :-
-
-
 #A token is the smallest unit of text that a language model processes.
+
 #Tokens in Python
 #-Literals
 #-Identifier
