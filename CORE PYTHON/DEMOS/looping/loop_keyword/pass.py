@@ -5,3 +5,4 @@ for i in range(1,10):
 
 #pass is used for if we not having the any logic to print .
 #Pass will execute the condition .
+
