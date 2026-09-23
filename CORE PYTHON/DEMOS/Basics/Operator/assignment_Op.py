@@ -1,4 +1,8 @@
+# Assignment operator in python.
+
 num = int(input("Enter the number:"))
+
+
 a = num
 print(num)
 

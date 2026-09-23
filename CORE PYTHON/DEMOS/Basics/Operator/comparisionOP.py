@@ -1,3 +1,5 @@
+#Comparision Operator in pyhton
+
 x = 10
 y = 10
 z = 20
@@ -21,5 +23,3 @@ print(x < z)
 
 #6 . <= (less then equal to)
 print(x <= y)
-
-#
