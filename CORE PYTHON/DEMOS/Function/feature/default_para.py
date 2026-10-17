@@ -1,7 +1,7 @@
 #1. To make parameter optional . 
 #2. Assign valu to parameter in  function definition.
 #3. If we pass value to default parameter , it take passed value .
- # If we don't pass value to default parameter , it take default value.
+#   If we don't pass value to default parameter , it take default value.
 #4. Flow from right to left .
 
 

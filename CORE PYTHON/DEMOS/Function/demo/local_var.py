@@ -8,10 +8,10 @@ print("##########")
 
 
 def func():
-    var = 30       
+    var = 30   #This is different var value    
     print(var)
 
-var = 10
+var = 10 #This is another different var vaue.
 
 fun()
 print(var)

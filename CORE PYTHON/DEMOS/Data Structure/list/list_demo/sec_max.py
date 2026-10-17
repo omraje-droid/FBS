@@ -1,6 +1,6 @@
 #Second max number in list.
 
-li = [45 ,60 ,58 ,50 ,90 ,89]
+li = [45 ,10 ,23 ,50 ,90, 31 ,100]
 
 max = li[0]
 smax = 0 
