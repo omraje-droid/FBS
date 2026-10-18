@@ -10,3 +10,8 @@ li = [10 ,20 ,30 ,40, 50, 60]
 for ind in range(0 , len(li)-1):
   
     print(f"{ind} = {li[ind]}")
+
+#having two tecnicians
+
+# direct element traves.
+# index using for traves.
