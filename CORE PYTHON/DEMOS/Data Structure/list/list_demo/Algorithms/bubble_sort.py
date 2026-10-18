@@ -1,5 +1,12 @@
 #bubble sort method
 
+# we seen in bubble sort we swap element to sort the list.
+# we use two loop outer loop or inner loop.
+# outer loop work as n-1 means (length of list - 1 ) and change when the inner loop completer there all range.
+# inner loop work to compare the element by using if . 
+
+
+
 def bubbleSort (li):
     size = len(li)
 
