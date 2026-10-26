@@ -10,6 +10,7 @@ def selectionSort(li):
             if(li[j] < li[min_ind]):
                 min_ind = j
         li[i] , li[min_ind] = li[min_ind] , li[i]
+        print("\n",li)
 
 li = [60 ,50, 40, 30, 20, 10]
 
